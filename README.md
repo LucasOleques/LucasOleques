@@ -1,14 +1,14 @@
 ## 👋 Seja bem-vindo(a)! Eu sou **Lucas Oleques**
 
-💻 Sou um Desenvolvedor Back-End.
+💻 Desenvolvedor Back-End em formação.
 
-🎓 Atualmente estudo Desenvolvimento de Software com Foco em Back-End utilizando Java.
+🎓 Estudo Desenvolvimento de Software com foco em Back-End utilizando Java.
 
-👩‍💻 Atualmente eu trabalho como Suporte Técnico, com o objetivo profissional em virar um Desenvolvedor.
+👩‍💻 Trabalho atualmente como Suporte Técnico, buscando transição para a área de Desenvolvimento.
 
 ### Sobre Mim  
 
- Sou um desenvolvedor focado em criar soluções eficientes e bem estruturadas. Trabalho principalmente com **Java** e utilizo o **padrão MVC** para organizar meus projetos. Atualmente, estou desenvolvendo sistemas como:  
+ Sou um desenvolvedor focado em criar soluções eficientes e bem estruturadas. Meu foco principal está em **Java**, utilizando o **padrão MVC** para organizar meus projetos. Atualmente, estou trabalhando em sistemas como:
 - 📊 **Gestão de Finanças Pessoais**  
 - 📚 **Gerenciamento de Livros**
 
