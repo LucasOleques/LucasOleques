@@ -17,16 +17,16 @@
 ### 🚀 Tecnologias e Ferramentas:
 
 ### 💻 Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css&theme=dark)](https://github.com/LucasOleques)
 
 ### 🧩 Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet&theme=dark)](https://github.com/LucasOleques)
 
 ### 🗃️ Banco de Dados:  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,&theme=dark)](https://github.com/LucasOleques)
 
 ### ⚙️ Ferramentas: 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,gitlab,git,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,gitlab,git,powershell&theme=dark)](https://github.com/LucasOleques)
 
 ---
 
