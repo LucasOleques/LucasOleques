@@ -6,7 +6,7 @@
 
 👩‍💻 Trabalho atualmente como Suporte Técnico, buscando transição para a área de Desenvolvimento.
 
-### Sobre Mim  
+## Sobre Mim  
 
  Sou um desenvolvedor focado em criar soluções eficientes e bem estruturadas. Meu foco principal está em **Java**, utilizando o **padrão MVC** para organizar meus projetos. Atualmente, estou trabalhando em sistemas como:
 - 📊 **Gestão de Finanças Pessoais**  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+## 🚀 Tecnologias e Ferramentas:
 
 ### 💻 Linguagens:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css&theme=dark)](https://github.com/LucasOleques)
