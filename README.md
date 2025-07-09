@@ -4,11 +4,11 @@
 
 🎓 Estudo Desenvolvimento de Software com foco em Back-End utilizando Java.
 
-👩‍💻 Trabalho atualmente como Suporte Técnico, buscando transição para a área de Desenvolvimento.
+👩‍💻 Trabalho atualmente como Analista de Qualidade de Software, buscando transição para a área de Desenvolvimento.
 
 ## Sobre Mim  
 
- Sou um desenvolvedor focado em criar soluções eficientes e bem estruturadas. Meu foco principal está em **Java**, utilizando o **padrão MVC** para organizar meus projetos. Atualmente, estou trabalhando em sistemas como:
+ Sou um desenvolvedor focado em criar soluções eficientes e bem estruturadas. Meu foco principal está no **Java**, utilizando o **padrão MVC** para organizar meus projetos. Atualmente, estou trabalhando em sistemas como:
 - 📊 **Gestão de Finanças Pessoais**  
 - 📚 **Gerenciamento de Livros**
 
