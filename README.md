@@ -31,13 +31,13 @@
 ## 🌐 **Where to find me:**
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/lucas-oleques)  
-🌎 [**Portfólio**](https://www.lucasoleques.dev)
+🌎 [**Portfólio**](https://lucasoleques.github.io/Portfolio/)
 
 <div>
  <a href="https://www.linkedin.com/in/lucas-oleques/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black">
  </a>
- <a href="https://www.lucasoleques.dev" target="_blank">
+ <a href="https://lucasoleques.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfólio">
  </a>
 </div>
